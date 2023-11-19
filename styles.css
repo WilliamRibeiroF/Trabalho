@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500&display=swap');
+html{
+    width: 800px;
+background-image: url(https://scontent.fpoa48-1.fna.fbcdn.net/v/t39.30808-6/402834485_1752895351893807_1299533194762901292_n.jpg?stp=dst-jpg_p960x960&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qNImmksG_RgAX93SvuB&_nc_ht=scontent.fpoa48-1.fna&oh=00_AfB6x2GkPw0Hj4y4ZBU7nTnDrVv7-nWpmcFHpNkypwxcQQ&oe=655F91DA);
+}
+
+
+.titulo{
+    position: relative;
+    left: 400px;
+    width: 200px;
+    color: yellow;
+    font-family: 'Oswald', sans-serif;
+    font-style: v;
+    
+}
+.texto{
+    display: flex;
+    position: relative;
+    left: 20px;
+    margin-bottom: 10px;
+    line-height: 23px;
+    width: 700px;
+
+}
+.texto1{
+    display: flex;
+    width: 500px;
+    border-bottom: 320px;
+    padding: 5px;
+}
+
+.imagem{
+    position: relative;
+    left: 550px;
+    top: -450px;
+    width: 250px;
+    height: 250px;
+    
+}
+.entrada{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 70px;
+    gap: 5px;
+    left: 20px;
+    top: -150px;
+    
+}
+
+.entrada1{
+    height: 70px;
+    border-radius:10px;
+    border: none;
+}
+.dados{
+    position: relative;
+    top: -25px;
+}
